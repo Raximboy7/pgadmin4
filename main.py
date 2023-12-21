@@ -2,8 +2,8 @@ import psycopg2
 
 
 db = psycopg2.connect(
-    database = 'Payshanba',
-    password='0000',
+    database = 'You basename',
+    password='You password',
     user='postgres',
     host='localhost'
 )
